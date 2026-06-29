@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Anime GIF -->
-<img src="https://tenor.com/ru/view/crows-black-and-white-gif-7565709670418646338" width="700" alt="anime gif"/>
+<img src="https://media1.tenor.com/m/Q8GYHELRFDgAAAAC/shy-anime.gif" width="700" alt="anime gif"/>
 
 </div>
 
