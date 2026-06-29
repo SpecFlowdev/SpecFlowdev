@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Anime GIF -->
-<img src="https://64.media.tumblr.com/8c1476e0249a5618645cf24cf1957a55/tumblr_myfw9fW3b11rveihgo1_500.gif" width="700" alt="anime gif"/>
+<img src="https://media1.tenor.com/m/ovVqgm0--zIAAAAd/sora-kasugano-yosuga-no-sora.gif" width="700" alt="anime gif"/>
 
 </div>
 
