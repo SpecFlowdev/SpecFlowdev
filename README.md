@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Anime GIF -->
-<img src="https://tenor.com/ru/view/yin-hei-darker-than-black-the-black-reaper-contractor-gif-15573801908365066863" width="700" alt="anime gif"/>
+<img src="https://media1.tenor.com/m/Q8GYHELRFDgAAAAC/shy-anime.gif" width="700" alt="anime gif"/>
 
 </div>
 
