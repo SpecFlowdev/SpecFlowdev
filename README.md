@@ -42,8 +42,4 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SpecFlowdev&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
-
 </div>
