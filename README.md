@@ -25,8 +25,13 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://github.com/WireGuard/wireguard-linux)
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)](https://github.com/OpenVPN/openvpn)
-[![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://github.com/torproject/tor)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/docker-ce)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/cloudflare)
+[![V2Ray](https://img.shields.io/badge/V2Ray-2496ED?style=for-the-badge&logo=v2ray&logoColor=white)](https://github.com/v2fly/v2ray-core)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
+[![BSD](https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://github.com/freebsd/freebsd-src)
 
 </div>
 
