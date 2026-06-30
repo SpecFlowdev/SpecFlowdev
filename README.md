@@ -33,7 +33,7 @@
 [![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)](https://github.com/caddyserver/caddy)
 [![iptables](https://img.shields.io/badge/iptables-D00000?style=for-the-badge&logo=linux&logoColor=white)](https://git.netfilter.org/iptables)
 [![Hysteria](https://img.shields.io/badge/Hysteria-22C55E?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/apernet/hysteria)
-[![Loon 圈](https://img.shields.io/badge/Loon%20圈-000000?style=for-the-badge)](https://github.com/Loon0x00/LoonManual)
+[![Loon](https://img.shields.io/badge/Loon%20圈-000000?style=for-the-badge)](https://github.com/Loon0x00/LoonManual)
 
 </div>
 
