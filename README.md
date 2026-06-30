@@ -31,7 +31,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![BSD](https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://github.com/freebsd/freebsd-src)
-[![Shadowsocks](https://img.shields.io/badge/Shadowsocks-2C3E50?style=for-the-badge&logo=shadowsocks&logoColor=white)](https://github.com/shadowsocks/shadowsocks)
 [![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)](https://github.com/caddyserver/caddy)
 [![iptables](https://img.shields.io/badge/iptables-D00000?style=for-the-badge&logo=linux&logoColor=white)](https://git.netfilter.org/iptables)
 [![Hysteria](https://img.shields.io/badge/Hysteria-22C55E?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/apernet/hysteria)
