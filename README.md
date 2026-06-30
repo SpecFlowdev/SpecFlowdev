@@ -45,6 +45,6 @@
 
 <div align="center">
 
-<img src="https://github-streak-stats-ruby.vercel.app/?user=SpecFlowdev&theme=github_dark&border=FFFFFF&hide_border=false&border_radius=4.5&mode=daily&card_width=900" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=github-dark-blue&hide_border=false&border=FFFFFF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E" width="95%"/>
 
 </div>
