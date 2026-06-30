@@ -35,16 +35,16 @@
 
 <div align="center">
 
-<img src="https://helio-github-stats.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=58A6FF&hide_border=false&show_icons=true&card_width=900" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=false&show_icons=true&card_width=900" width="95%"/>
 
 <br/>
 
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=58A6FF&hide_border=false&card_width=900" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=github-dark-blue&hide_border=false&border=FFFFFF&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SpecFlowdev&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
 
 </div>
