@@ -35,7 +35,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=true&show_icons=true&card_width=900" width="95%"/>
-
 <br/>
 <div align="center">
 
