@@ -32,16 +32,8 @@
 
 ---
 
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpecFlowdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecFlowdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9)
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SpecFlowdev&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
 
 </div>
