@@ -34,6 +34,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SpecFlowdev&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=true&show_icons=true&card_width=900" width="95%"/>
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=FFFFFF&hide_border=true&card_width=900" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SpecFlowdev&theme=github_dark&border_color=FFFFFF&hide_border=true&card_width=900" width="95%"/>
 
 </div>
