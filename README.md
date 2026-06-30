@@ -34,6 +34,8 @@
 [![iptables](https://img.shields.io/badge/iptables-D00000?style=for-the-badge&logo=linux&logoColor=white)](https://git.netfilter.org/iptables)
 [![Hysteria](https://img.shields.io/badge/Hysteria-22C55E?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/apernet/hysteria)
 [![Quantumult X](https://img.shields.io/badge/Quantumult%20X-000000?style=for-the-badge)](https://github.com/crossutility/Quantumult-X)
+[![Loon](https://img.shields.io/badge/Loon-000000?style=for-the-badge)](https://github.com/Loon0x00/LoonManual)
+[![小火箭 Shadowrocket](https://img.shields.io/badge/小火箭%20Shadowrocket-000000?style=for-the-badge)](https://github.com/getsomerocket)
 
 </div>
 
