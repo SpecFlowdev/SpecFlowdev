@@ -22,18 +22,10 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git/git)
 [![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://github.com/WireGuard/wireguard-linux)
 [![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)](https://github.com/OpenVPN/openvpn)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/docker-ce)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
-[![V2Ray](https://img.shields.io/badge/V2Ray-2496ED?style=for-the-badge&logo=v2ray&logoColor=white)](https://github.com/v2fly/v2ray-core)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
-[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)](https://github.com/caddyserver/caddy)
-[![iptables](https://img.shields.io/badge/iptables-D00000?style=for-the-badge&logo=linux&logoColor=white)](https://git.netfilter.org/iptables)
-[![Hysteria](https://img.shields.io/badge/Hysteria-22C55E?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/apernet/hysteria)
-[![Loon](https://img.shields.io/badge/Loon-000000?style=for-the-badge)](https://github.com/Loon0x00/LoonManual)
 
 </div>
 
