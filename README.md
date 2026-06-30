@@ -35,13 +35,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpecFlowdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecFlowdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpecFlowdev&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecFlowdev&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=tokyonight&hide_border=true&cache_seconds=86400&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9)
 
 </div>
