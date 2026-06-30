@@ -35,13 +35,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpecFlowdev&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecFlowdev&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"/>
+<img height="180em" src="https://helio-github-stats.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=dark&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&hide_border=false&show_icons=true&card_width=466"/>
+<img height="180em" src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=normal&stats_format=percentages&theme=dark&border_color=30363D&hide_border=false&card_width=466"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpecFlowdev&theme=tokyonight&hide_border=true&cache_seconds=86400&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9)
+<img src="https://github-streak-stats-ruby.vercel.app/?user=SpecFlowdev&theme=dark&hide_border=false&border_radius=4.5&mode=daily&card_width=466"/>
 
 </div>
