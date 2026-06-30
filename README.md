@@ -35,16 +35,16 @@
 
 <div align="center">
 
-<img src="https://helio-github-stats.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=dracula&border_color=FFFFFF&hide_border=false&show_icons=true&card_width=900" width="95%"/>
+<img src="https://helio-github-stats.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=false&show_icons=true&card_width=900" width="95%"/>
 
 <br/>
 
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=dracula&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-streak-stats-ruby.vercel.app/?user=SpecFlowdev&theme=dracula&hide_border=false&stroke=FFFFFF&border_radius=4.5&mode=daily&card_width=900" width="95%"/>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=SpecFlowdev&theme=github_dark&hide_border=false&stroke=FFFFFF&border_radius=4.5&mode=daily&card_width=900" width="95%"/>
 
 </div>
