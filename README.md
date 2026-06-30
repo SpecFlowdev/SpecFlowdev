@@ -36,7 +36,7 @@
 <div align="center">
 
 <img src="https://helio-github-stats.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=dark&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&hide_border=false&show_icons=true&card_width=600" width="48%"/>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=normal&stats_format=percentages&theme=dark&border_color=30363D&hide_border=false&card_width=600" width="48%"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=dark&border_color=30363D&hide_border=false&card_width=600" width="48%"/>
 
 </div>
 
