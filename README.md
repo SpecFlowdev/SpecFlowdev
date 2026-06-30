@@ -27,6 +27,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/docker-ce)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
+[![V2Ray](https://img.shields.io/badge/V2Ray-2496ED?style=for-the-badge&logo=v2ray&logoColor=white)](https://github.com/v2fly/v2ray-core)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/postgres/postgres)
+[![iptables](https://img.shields.io/badge/iptables-D00000?style=for-the-badge&logo=linux&logoColor=white)](https://git.netfilter.org/iptables)
 
 </div>
 
