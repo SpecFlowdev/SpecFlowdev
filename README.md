@@ -34,11 +34,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=false&show_icons=true&card_width=900" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SpecFlowdev&custom_title=GitHub+Stats&theme=github_dark&border_color=FFFFFF&hide_border=false&show_icons=true&card_width=500"/>
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=900" width="95%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SpecFlowdev&custom_title=Top+Languages&layout=donut&theme=github_dark&border_color=FFFFFF&hide_border=false&card_width=500"/>
 
 </div>
 
