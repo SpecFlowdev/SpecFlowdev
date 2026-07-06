@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Anime GIF -->
-<img src="https://media1.tenor.com/m/Q8GYHELRFDgAAAAC/shy-anime.gif](https://tenor.com/ru/view/linux-kernel-linux-tux-tux-the-penguin-penguin-gif-10518114160556411541" width="700" alt="anime gif"/>
+<img src="https://tenor.com/ru/view/linux-kernel-linux-tux-tux-the-penguin-penguin-gif-10518114160556411541" width="700" alt="anime gif"/>
 
 </div>
 
