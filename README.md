@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🐉 Spec — Network / System Engineer
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4D94&center=true&vCenter=true&width=500&lines=Network+%26+System+Engineer;Linux+%7C+VPN+%7C+Automation" alt="Typing SVG" />
 </a>
