@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx,py&theme=dark&perline=6" alt="stack icons" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx,py,go,rust,postgres,redis,grafana,prometheus&theme=dark&perline=6" alt="stack icons" />
 </div>
 
 <br/>
