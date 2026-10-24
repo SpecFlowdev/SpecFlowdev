@@ -1,11 +1,5 @@
 <div align="center">
 
----
-
-
-
-<div align="center">
-
 [![Xray](https://img.shields.io/badge/Xray-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://github.com/XTLS/Xray-core)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git/git)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
